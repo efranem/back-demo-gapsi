@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Jose",
+    "clave": "XYX",
+    "descripcion": "provedor XYX . . . ",
+    "categoria": "azul"
+  },
+  {
+    "nombre": "Efra",
+    "clave": "123",
+    "descripcion": "proveedor 123 . . . ",
+    "categoria": "rojo"
+  },
+  {
+    "nombre": "Efra",
+    "clave": "123",
+    "descripcion": "proveedor 123 . . . ",
+    "categoria": "rojo"
+  },
+  {
+    "nombre": "Efra",
+    "clave": "123",
+    "descripcion": "proveedor 123 . . . ",
+    "categoria": "rojo"
+  },
+  {
+    "nombre": "Efra",
+    "clave": "123",
+    "descripcion": "proveedor 123 . . . ",
+    "categoria": "rojo"
+  }
+]
